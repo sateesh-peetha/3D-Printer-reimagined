@@ -5,7 +5,7 @@ Yes, It's not a metal bar. It is a 3d printer that can easily print car:
 ![alt text](https://github.com/sateesh-peetha/3D-Printer-reimagined/blob/master/3d%20printer.png "3d Printer")
 
 ## Why call it "X" ?
-We all studied algebra in school and we call unknown as X, Y, Z etc. Here X can be 3D Printer, or a Mom Assist who can do jobs like dish washing, clearning like how humans sweep the house etc., or an Industrial automation robot. So it depepends on how we branwash the little chip inside this "X". we will soon enter an era of machine programming apps like how we are doing today with mobile apps.
+We all studied algebra in school and we call unknown as X, Y, Z etc. Here X can be 3D Printer, or a Mom Assist who can do jobs like dish washing, clearning like how humans sweep the house etc., or an Industrial automation robot. So it depends on how we brainwash the little chip inside this "X". we will soon enter an era of machine programming apps like how we are doing today with mobile apps.
 
 ## Primary challenge
 
